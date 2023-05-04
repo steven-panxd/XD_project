@@ -1,5 +1,6 @@
 # XD_project
 SP2023 CS157C Team Project
+Team name: XD
 
 ## Requirements
 You will need to install all the python packages in the requirements.txt
