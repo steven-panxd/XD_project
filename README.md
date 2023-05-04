@@ -4,11 +4,16 @@ Team name: XD
 
 ## Requirements
 You will need to install all the python packages in the requirements.txt
+
 You can use this command to install the required packages:
+
 pip install -r requirements.txt
+
+Also, you need to edit main.py to set a correct MongoDB host and port
 
 ## How to Run App
 Use this command to run the app:
+
 uvicorn main:app --reload
 
 Then, you can access from
